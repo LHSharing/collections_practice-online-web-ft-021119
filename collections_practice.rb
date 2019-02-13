@@ -89,3 +89,9 @@ sum += i
 #binding.pry
   # i = 0
 end
+
+def add_s(array)
+#array.each do
+binding.pry
+  array
+end
