@@ -93,10 +93,11 @@ end
 def add_s(array)
   array.each_with_index do |value,index|
     if index == 1
-  #do_nothing
+      value #do_nothing
     else
     value << "s"
 binding.pry
     end
+  end
   array
 end
