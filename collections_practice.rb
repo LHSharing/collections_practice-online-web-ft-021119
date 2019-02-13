@@ -82,13 +82,10 @@ def sum_array(array)
 #array = [11, 4, 7, 8, 9, 100, 134]
 sum = 0
 array.each do |i|
+#  binding.pry
 sum += i
   end
   sum
-
+#binding.pry
   # i = 0
-#     while i < array.length
-#       array_total += array[i]
-#       i += 1
-#     end
 end
