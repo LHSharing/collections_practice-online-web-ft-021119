@@ -98,7 +98,7 @@ binding.pry
     else
     value << "s"
     end
-    binding.pry
+#    binding.pry
   end
   array
 end
