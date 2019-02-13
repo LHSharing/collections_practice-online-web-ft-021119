@@ -96,7 +96,7 @@ def add_s(array)
       value #do_nothing
     else
     value << "s"
-binding.pry
+#binding.pry
     end
   end
   array
